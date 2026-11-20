@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c52014a6-71dd-41f1-83a4-b54889a9e23a",
+  "path": "carousell-golang-backend-services",
+  "path_key": "carousell-golang-backend-services",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "210df93c-de60-42da-99e7-becd799d1a08",
+  "path": "categorylib",
+  "path_key": "categorylib",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

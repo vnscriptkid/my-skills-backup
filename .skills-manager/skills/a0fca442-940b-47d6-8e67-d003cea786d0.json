@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a0fca442-940b-47d6-8e67-d003cea786d0",
+  "path": "db-access-request",
+  "path_key": "db-access-request",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

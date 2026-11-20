@@ -1,0 +1,204 @@
+{
+  "jobs": [
+    {
+      "name": "main / init",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / cleanup_branch",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / validation (proto/content-feed, content-feed, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / validation (proto/shopping-checkout, shopping-checkout, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / validation (proto/show, show, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / validation (proto/auction-commons, auction-commons, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / validation (proto/shopping-checkout-core, shopping-checkout-core, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / validation (proto/notification, notification, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / validation (proto/auction, auction, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / validation (proto/api-gw, api-gw, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / validation (proto/fee, fee, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / decision",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / swift-code-gen (proto/auction-commons, auction-commons, swift)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / java-code-gen (proto/api-gw, api-gw, java-lite)",
+      "status": "in_progress",
+      "conclusion": ""
+    },
+    {
+      "name": "main / swift-code-gen (proto/api-gw, api-gw, swift)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / js-code-gen (proto/api-gw, api-gw)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / java-code-gen (proto/auction-commons, auction-commons, java)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / js-code-gen (proto/auction-commons, auction-commons)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / java-code-gen (proto/api-gw, api-gw, java)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / java-code-gen (proto/auction-commons, auction-commons, java-lite)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/api-gw, api-gw, false, server)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/api-gw, api-gw, false, false, client)",
+      "status": "in_progress",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/auction, auction, false, server)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/content-feed, content-feed, false, false, client)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/auction-commons, auction-commons, false, false, client)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/fee, fee, false, false, client)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/auction, auction, false, false, client)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/notification, notification, false, false, client)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/notification, notification, false, server)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/fee, fee, false, server)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/content-feed, content-feed, false, server)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / mcp-code-gen",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / devportal-documentation",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / generation (proto/shopping-checkout, shopping-checkout, false, false, client)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/shopping-checkout, shopping-checkout, false, server)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/shopping-checkout-core, shopping-checkout-core, false, false, client)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/shopping-checkout-core, shopping-checkout-core, false, server)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/show, show, false, false, client)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / generation (proto/show, show, false, server)",
+      "status": "queued",
+      "conclusion": ""
+    },
+    {
+      "name": "main / validate-swift-package",
+      "status": "in_progress",
+      "conclusion": ""
+    }
+  ]
+}

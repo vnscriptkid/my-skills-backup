@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "65b95c69-f78b-4285-9820-4dc5aabe2cef",
+  "path": "write-a-prd",
+  "path_key": "write-a-prd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

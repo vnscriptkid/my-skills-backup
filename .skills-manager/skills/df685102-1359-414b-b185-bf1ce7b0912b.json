@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "df685102-1359-414b-b185-bf1ce7b0912b",
+  "path": "profile-prod-service",
+  "path_key": "profile-prod-service",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

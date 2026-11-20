@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a244e1a4-f36d-4ca5-9e9a-7d02be66ad14",
+  "path": "carousell-golang-testing",
+  "path_key": "carousell-golang-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

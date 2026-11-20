@@ -1,0 +1,94 @@
+{
+  "jobs": [
+    {
+      "name": "main / init",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / cleanup_branch",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / validation (proto/listing-quota, listing-quota, false)",
+      "status": "completed",
+      "conclusion": "failure"
+    },
+    {
+      "name": "main / decision",
+      "status": "completed",
+      "conclusion": "failure"
+    },
+    {
+      "name": "main / swift-code-gen",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / java-code-gen",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / mcp-code-gen",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / js-code-gen",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / devportal-documentation",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / validate-swift-package",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / generation",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / debug",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / status-check",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / js-package-publish",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / tagging",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / tagging-swift-package",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / java-package-publish",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "descriptor_gen",
+      "status": "completed",
+      "conclusion": "skipped"
+    }
+  ]
+}

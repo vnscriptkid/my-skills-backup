@@ -1,0 +1,89 @@
+{
+  "jobs": [
+    {
+      "name": "main / init",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / cleanup_branch",
+      "status": "completed",
+      "conclusion": "skipped"
+    },
+    {
+      "name": "main / validation (proto/content-feed, content-feed, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / validation (proto/content-feed-gw, content-feed-gw, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / validation (proto/listing-visualizer, listing-visualizer, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / validation (proto/subscriptions, subscriptions, false)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / decision",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / generation (proto/content-feed, content-feed, false, false, client)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / generation (proto/content-feed, content-feed, false, server)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / generation (proto/content-feed-gw, content-feed-gw, false, false, client)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / generation (proto/content-feed-gw, content-feed-gw, false, server)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / generation (proto/listing-visualizer, listing-visualizer, false, false, client)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / generation (proto/listing-visualizer, listing-visualizer, false, server)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / generation (proto/subscriptions, subscriptions, false, false, client)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / generation (proto/subscriptions, subscriptions, false, server)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / generation (proto/listing-quota, listing-quota, false, server)",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "main / publish_java",
+      "status": "completed",
+      "conclusion": "success"
+    }
+  ]
+}

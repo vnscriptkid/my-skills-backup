@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e6f0c0c1-6da9-4327-9eb5-75ad1a9226d6",
+  "path": "debug-deploy",
+  "path_key": "debug-deploy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

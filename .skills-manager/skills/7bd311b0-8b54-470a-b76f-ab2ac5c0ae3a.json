@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7bd311b0-8b54-470a-b76f-ab2ac5c0ae3a",
+  "path": "carousell-categories",
+  "path_key": "carousell-categories",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

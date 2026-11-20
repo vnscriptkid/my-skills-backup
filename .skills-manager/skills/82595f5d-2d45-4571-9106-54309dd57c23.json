@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "82595f5d-2d45-4571-9106-54309dd57c23",
+  "path": "carousell-proto-ctf",
+  "path_key": "carousell-proto-ctf",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

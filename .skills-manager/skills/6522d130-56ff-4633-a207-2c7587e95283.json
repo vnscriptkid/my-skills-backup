@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6522d130-56ff-4633-a207-2c7587e95283",
+  "path": "seed-wtb-listings",
+  "path_key": "seed-wtb-listings",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

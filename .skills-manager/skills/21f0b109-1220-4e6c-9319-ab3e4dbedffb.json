@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "21f0b109-1220-4e6c-9319-ab3e4dbedffb",
+  "path": "sql-query-optimisation",
+  "path_key": "sql-query-optimisation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

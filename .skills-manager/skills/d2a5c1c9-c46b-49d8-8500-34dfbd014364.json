@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d2a5c1c9-c46b-49d8-8500-34dfbd014364",
+  "path": "bifrost-test-data-seeding",
+  "path_key": "bifrost-test-data-seeding",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

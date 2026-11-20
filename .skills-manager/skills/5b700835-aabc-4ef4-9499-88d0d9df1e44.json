@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5b700835-aabc-4ef4-9499-88d0d9df1e44",
+  "path": "prd-to-plan",
+  "path_key": "prd-to-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

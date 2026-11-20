@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1b813dfc-4038-42be-93ab-c42f58a851b7",
+  "path": "do-work",
+  "path_key": "do-work",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9c10ef68-6c6f-42c9-908b-fefc06789222",
+  "path": "carousell-grpc-call",
+  "path_key": "carousell-grpc-call",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

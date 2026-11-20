@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5198e70f-56c1-48b1-b130-31fc6f5162d0",
+  "path": "context-registry",
+  "path_key": "context-registry",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
